@@ -172,8 +172,25 @@ During the summer it becomes hotter and warmer making rainfall increase to an av
 Made a predictive analysis forecast for the next 6 years, it shows what the average PM2.5 value will be from 2015 – 2020. The PM2.5 value reached a peak in 2018 with the PM2.5 averaging 100.76 Ug/m3 and the least was in 2017 with 85.51 Ug/m3.
 ![](Forecast.jpg)
 
+### Live Power Bi Report
 
+click [here](https://app.powerbi.com/links/nj8Gu8iFHD?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare)
 
+### Final Visual            
+![](dashboard_2.jpg).       | ![](Dashboard1.jpg)
+
+## Recommendation
+
+1. According to the analysis, there have been several hours of rain and snow, which indicates that PM2.5 levels are low. Rain and snow may wash contaminants out of the air and eliminate soluble pollutants. Pollutants are still present despite being washed away or scattered. Just relocating them elsewhere. They are either inhaled by another person or dumped in water bodies for aquatic plants and animals to handle. Those who are particularly susceptible to illness are advised to avoid engaging in too many outdoor activities to avoid contracting an infection.
+
+2. Encourage the creation of green areas since they can help remove PM2.5 from the air. Enhancing urban green areas and planting more trees can boost cities' air quality. 
+People may also minimize their own emissions of PM2.5 by using energy-efficient appliances, using the bus or train instead of driving, or walking or bicycling instead of using a car.
+
+3. Over winter, there was a very rapid increase in the PM2.5 concentration. This may be due to the extensive use of coal and other fossil fuels in the production of heat. I suggest replacing biomass fuels, such as wood, coal, animal manure, and agricultural wastes, with cleaner fuels, such as biogas (methane), liquefied petroleum gas (LPG), electricity, or solar cookers, in houses that use them for cooking and heating, also the government can offer subsidies on electricity to encourage the use of electric heaters and discourage its citizens from using gas or burning wood to keep themselves warm.
+
+4. Reduce PM2.5 through pollution abatement measures including installing equipments to remove particulate matter, flue gas desulfurization and denitrification replacing coal with natural gas and expanding clean energy vehicles.
+
+5. When the PM 2.5 concentration is above 110Ug/m3, it is advised that the general public wear pollution masks and use air purifiers indoors. Any concentration of PM 2.5 over that has detrimental effects on health.
 
 
 
