@@ -85,7 +85,7 @@ Much wasn’t done here because we didn’t need to create any relationships, a 
 
 ## Data Cleaning
 
-Power bi was used to load, clean, and visualize the dataset. This is the link to the dataset [here](https://aka.ms/DAWeatherImpact)
+Power bi was used to load, clean, and visualize the dataset. This is the link to the dataset [here](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)
 
 •	The first thing I did in the power query editor was to promote the first row as a header.
 
